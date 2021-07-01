@@ -1,0 +1,81 @@
+body {
+  margin-top: 3rem;
+}
+
+#home {
+  padding-top: 4rem;
+}
+
+.jumbotron.shadow.text-center {
+  background-color: #f7ecdf;
+  align-content: center;
+  /* font-family: 'Nunito', sans-serif; */
+}
+
+#about {
+  padding-bottom: 4rem;
+  background-color: #f4dbc9;
+}
+
+h1 {
+  padding-top: 8px;
+}
+
+.col-4 {
+  text-align: justify;
+}
+
+hr {
+  margin: 1rem 30rem;
+  border: 0;
+  border-top: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+svg {
+  margin-top: -3rem;
+}
+
+.p-3 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 24px;
+  text-align: justify;
+  align-items: center;
+  justify-content: center;
+}
+
+#project {
+  background-color: #f7ecdf;
+  padding: 3rem 0;
+}
+
+.row.porto {
+  padding: 2rem;
+}
+
+.card {
+  border-radius: 15px;
+  text-align: justify;
+}
+
+#form {
+  background-color: #f4dbc9;
+  padding: 3rem 0;
+}
+
+#regis {
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+#footer {
+  padding: 1rem;
+}
+
+.copy {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
